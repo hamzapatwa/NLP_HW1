@@ -5,7 +5,12 @@ This project implements language models (unigram, bigram MLE, and bigram with ad
 
 ## File Structure
 
-nlp_hw1_project/ ├── README.md ├── nlp_hw1_solution.py └── data/ ├── train.txt └── test.txt
+nlp_hw1_project/ 
+├── README.md 
+├── nlp_hw1_solution.py 
+└── data/ 
+      ├── train.txt 
+      └── test.txt
 
 
 ## Setup & Requirements
